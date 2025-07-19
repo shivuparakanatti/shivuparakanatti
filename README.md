@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivuparakanatti&label=Profile%20views&color=0e75b6&style=flat" alt="shivuparakanatti" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, Redux, NodeJS**
+- 🌱 I’m currently working on **ReactJS, Redux, NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://shivuparakanatti.github.io/](https://shivuparakanatti.github.io/)
 
